@@ -1,2 +1,9 @@
 # crispy-algorithms
-Collection of algorithms solved for various coding challenges.
+Collection of algorithms resulting from various coding challenges.
+
+```bash
+.
+├── google-foobar-challenge         // https://foobar.withgoogle.com/
+└── README.md
+
+```
